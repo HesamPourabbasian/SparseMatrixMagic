@@ -1,7 +1,7 @@
 Matrix Operations Library 🧮✨
 Welcome to the Matrix Operations Library, a sleek and efficient Python project designed for performing matrix computations with elegance and ease! 🚀 This library leverages a sparse matrix implementation to handle operations like addition, multiplication, determinants, transposes, and more, all wrapped in a visually appealing output powered by colorama. Perfect for math enthusiasts, students, or developers looking to dive into linear algebra with style! 🌟
 
-##Features
+## Features ##
 
 Sparse Matrix Representation 📊: Efficiently stores only non-zero elements to save memory and boost performance.
 Core Operations 🔢:
